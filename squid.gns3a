@@ -1,0 +1,18 @@
+{
+    "name": "squid",
+    "category": "guest",
+    "description": "NUC based squid",
+    "vendor_name": "jprietove",
+    "vendor_url": "https://hub.docker.com/u/jprietove/",
+    "documentation_url": "https://hub.docker.com/u/jprietove/",
+    "product_name": "NUC based squid",
+    "registry_version": 1,
+    "status": "stable",
+    "maintainer": "Javier Prieto",
+    "maintainer_email": "",
+    "usage": "Default Ubuntu",
+    "docker": {
+        "adapters": 1,
+        "image": "jprietove/squid:latest"
+    }
+}
